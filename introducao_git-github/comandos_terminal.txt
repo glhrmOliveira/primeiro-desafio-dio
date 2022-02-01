@@ -1,0 +1,21 @@
+Comandos básicos do terminal:
+	
+    ls : listar o conteúdo do diretório corrente (ou de um diretório dado).
+    rm : remover arquivos.
+	rm -rf : remover diretório.
+    mv : movimentar arquivos.
+    cp : copiar arquivos.
+    cat : apresentar o conteúdo de arquivos.
+    more : visualizar o conteúdo de arquivos (paginado).
+    ln : criar links (atalhos).
+
+
+    pwd : indica qual o diretório corrente do shell.
+    cd : troca de diretório:
+        cd dir : muda para o diretório dir
+        cd .. : muda para o diretório pai imediatamente superior.
+        cd - : volta para o último diretório visitado.
+        cd ~user : vai para o diretório HOME do usuário indicado.
+        cd : volta ao diretório HOME.
+    mkdir dir : criação do diretório dir.
+    rmdir dir : remoção do diretório dir.
