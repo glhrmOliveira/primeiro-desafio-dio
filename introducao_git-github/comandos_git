@@ -24,6 +24,7 @@ Adicionar
 
 Consolidar
 	-git commit
+	-git commit meuarquivo.txt -m "minha mensagem de commit"
 
 Remover
 	-git rm
