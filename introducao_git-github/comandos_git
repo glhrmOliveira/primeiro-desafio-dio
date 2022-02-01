@@ -35,3 +35,8 @@ Repositório Remoto
 	-git remote add origin {link}
 	-git push -u origin master (primeiro push)
 	-git push (demais push's)
+
+Configurações
+	-git config --global user.name "NomeUsuário"
+	-git config --global user.email email@exemplo.com
+	-git config --list
